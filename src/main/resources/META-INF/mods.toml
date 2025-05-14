@@ -12,7 +12,7 @@ description = '''
 Mod that allows you to write paragraphs (section signs).
 '''
 itemIcon = "minecraft:oak_sign"
-updateJSONURL = "https://raw.githubusercontent.com/donmor/killer_rabbit_transformation/refs/heads/1.20.1/versions.json"#logoFile = ""
+updateJSONURL = "https://raw.githubusercontent.com/donmor/paragraphs-reforged/refs/heads/master/versions.json"
 #logoFile = ""
 
 [[dependencies.paragraphs]]

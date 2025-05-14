@@ -1,0 +1,28 @@
+modLoader = "javafml"
+loaderVersion = "[38,50)"
+#issueTrackerURL = ""
+license = "MIT License"
+
+[[mods]]
+modId = "paragraphs"
+version = "${version}"
+displayName = "Paragraphs Reforged"
+authors = "donmor"
+description = '''
+Mod that allows you to write paragraphs (section signs).
+'''
+#logoFile = ""
+
+[[dependencies.paragraphs]]
+modId = "forge"
+mandatory = true
+versionRange = "[38,50)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.paragraphs]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.20.1,1.20.5)"
+ordering = "NONE"
+side = "BOTH"

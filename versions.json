@@ -2,10 +2,11 @@
   "homepage": "https://github.com/donmor/paragraphs-reforged",
   "1.20.1": {
     "1.0.0": "Initial release",
-    "1.0.1": "Fix broken updateJSONURL in mods.toml"
+    "1.0.1": "Fix broken updateJSONURL in mods.toml",
+    "1.0.2": "Fix broken Minecraft version range in mods.toml"
   },
   "promos": {
-    "1.20.1-latest": "1.0.1",
-    "1.20.1-recommended": "1.0.1"
+    "1.20.1-latest": "1.0.2",
+    "1.20.1-recommended": "1.0.2"
   }
 }
